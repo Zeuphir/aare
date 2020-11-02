@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: './'
+    publicPath: './Empty_Vue/thermometer_aare/dist/'
 }
