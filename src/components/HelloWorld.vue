@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h3>Installed CLI Plugins {{temp}} {{datum}}</h3>
+    <h3>Installed CLI Plugins {{temp}}</h3>
   </div>
 </template>
 
@@ -11,7 +11,6 @@ export default {
   props: {
     msg: String,
     temp: Number,
-    datum: String
   }
 }
 </script>

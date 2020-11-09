@@ -13,7 +13,8 @@
     "material-components-web": "^7.0.0",
     "material-design-icons": "^3.0.1",
     "register-service-worker": "^1.7.1",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-material": "^1.0.0-beta-15"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
